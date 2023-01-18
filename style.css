@@ -9,7 +9,7 @@ body {
 }
 
 .container{
-	boader: black;
+	border: 5px solid black;
 }
 
 
